@@ -1,0 +1,26 @@
+{
+  "name": "pub",
+  "version": "1.0.0",
+  "description": "go to ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitheer/publishnodejs.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "Heer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitheer/publishnodejs/issues"
+  },
+  "homepage": "https://github.com/ankitheer/publishnodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
